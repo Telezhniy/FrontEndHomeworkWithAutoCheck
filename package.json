@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "https://telezhniy.github.io",
   "name": "pre-homeworks",
   "version": "0.1.0",
   "private": true,
@@ -42,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "prettier": "3.0.0"
   }
 }
